@@ -1,6 +1,6 @@
 # Asteroids Game
 
-A classic asteroids game built with Python and Pygame.
+A classic asteroids game built with Python and Pygame. Inspired and guided by [Boot.dev](https://www.boot.dev)!
 
 ## Requirements
 
@@ -37,9 +37,9 @@ UV will automatically create a virtual environment and install all necessary dep
 ## Controls
 
 - **W** - Move forward
-- **D** - Rotate right
-- **A** - Rotate left
 - **S** - Move backward
+- **A** - Rotate left
+- **D** - Rotate right  
 - **Space** - Shoot
 
 ## How to Play
@@ -58,6 +58,3 @@ uv run main.py
 
 **Game won't start**: Ensure you have proper graphics drivers and that no other application is blocking the game window.
 
-## License
-
-[Add your license here]
